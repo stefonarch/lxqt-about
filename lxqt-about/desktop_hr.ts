@@ -12,7 +12,7 @@
     <message>
         <location filename="Desktop Entry]Comment" line="0"/>
         <source>Learn more about LXQt</source>
-        <translation type="unfinished"></translation>
+        <translation>Just some more testing</translation>
     </message>
 </context>
 </TS>
