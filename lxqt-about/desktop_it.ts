@@ -7,12 +7,12 @@
         <location filename="Desktop Entry]GenericName" line="0"/>
         <location filename="Desktop Entry]Name" line="0"/>
         <source>About LXQt</source>
-        <translation type="unfinished"></translation>
+        <translation>Informazioni su LXQt</translation>
     </message>
     <message>
         <location filename="Desktop Entry]Comment" line="0"/>
         <source>Learn more about LXQt</source>
-        <translation type="unfinished"></translation>
+        <translation>Più dettagli su LXQt</translation>
     </message>
 </context>
 </TS>
