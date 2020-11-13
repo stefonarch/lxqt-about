@@ -100,7 +100,7 @@ QString AboutDialogPrivate::aboutText() const
             tr("Copyright: © %1-%2 %3", "About dialog, 'About' tab text")
                 .arg(QStringLiteral("2010"), QDate::currentDate().toString(QStringLiteral("yyyy")), QStringLiteral("LXQt team")),
             tr("Homepage: %1", "About dialog, 'About' tab text")
-                .arg(QStringLiteral("<a href=\"https://lxqt.github.io\">https://lxqt.github.io</a>")),
+                .arg(QStringLiteral("<a href=\"https://lxqt-project.org\">https://lxqt-project.org</a>")),
             tr("License: %1", "About dialog, 'About' tab text")
                 .arg(QStringLiteral("<a href=\"https://www.gnu.org/licenses/lgpl-2.1.html\">GNU Lesser General Public License version 2.1 or later</a>"
                      " and partly under the "
